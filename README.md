@@ -7,7 +7,7 @@
 [![Azure Pipelines Status](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstatus.dev.azure.com%2F_apis%2Fstatus%2Fhealth%3Fservices%3DPipelines%26geographies%3DUS&query=%24.services%5B0%5D.geographies%5B0%5D.health&label=Azure%20Pipelines%20Status
 )](https://status.dev.azure.com/)
 
-This repository contains the manifest files for the **Windows Package Manager** default source. You are highly encouraged to submit manifests for your favorite application.
+This repository contains the manifest files for the **Windows Package Manager** default source. You are highly encouraged to submit manifests for your favorite application. Change
 
 > [!IMPORTANT]
 > At this time installers must be MSIX, MSI, APPX, MSIXBundle, APPXBundle, or .exe application installers. Font files (.ttf, .ttc, .otf, .otc, and .fnt) are also supported. Script-based installers are not currently supported.
